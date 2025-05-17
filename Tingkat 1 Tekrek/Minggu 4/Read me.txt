@@ -1,0 +1,1 @@
+Bagi yang tidak muncul tampilan gamenya, pilih menu kernel > Restart & Run All
